@@ -20,22 +20,20 @@ A simple, secure Python script to fetch address data from Japan Post's **Digital
    ```bash
    git clone git@github.com:stprec-yuu/jp-digital-address-biz.git
    cd seach-addr
-
-```
+   ```
 
 2. **Create and activate a virtual environment:**
-```bash
-python -m venv venv
-source venv/bin/activate  # On Windows: venv\Scripts\activate
 
-```
+   ```bash
+   python -m venv venv
+   source venv/bin/activate  # On Windows: venv\Scripts\activate
+   ```
 
 
 3. **Install dependencies:**
-```bash
-pip install -r requirements.txt
-
-```
+   ```bash
+   pip install -r requirements.txt
+   ```
 
 
 
