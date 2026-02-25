@@ -18,7 +18,7 @@ A simple, secure Python script to fetch address data from Japan Post's **Digital
 
 1. **Clone the repository:**
    ```bash
-   git clone <your-repo-url>
+   git clone git@github.com:stprec-yuu/jp-digital-address-biz.git
    cd seach-addr
 
 ```
